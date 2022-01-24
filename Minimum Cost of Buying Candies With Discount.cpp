@@ -18,8 +18,7 @@ public:
     int minimumCost(vector<int>& cost) {
         sort(cost.begin(), cost.end(), greater<int>());
         int n= cost.size();
-        int res=0;
-        int i=0;
+        int res=0, i=0;
         while(i<n)
         {
             if(i<n)
