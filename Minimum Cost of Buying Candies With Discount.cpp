@@ -9,6 +9,7 @@ Given a 0-indexed integer array cost, where cost[i] denotes the cost of the ith 
 return the minimum cost of buying all the candies.*/
 
 #include<iostream>
+#include<bits/stdc++.h>
 #include<climits>
 using namespace std;
 
