@@ -12,6 +12,22 @@ Data Structures and Algorithms
 
 4. Heap: [Aditya Verma](https://www.youtube.com/playlist?list=PL_z_8CaSLPWdtY9W22VjnPxG30CXNZpI9)
 
-5. Dynamic Programming: [Aditya Verma](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)
+5. Recursion: [Aditya Verma](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY) || [Striver Playlist](https://www.youtube.com/watch?v=OyZFFqQtu98&list=PLgUwDviBIf0rQ6cnlaHRMuOp4H_D-7hwP&t=0s)
 
-6. Graph: [Striver Playlist](https://www.youtube.com/watch?v=YTtpfjGlH2M&list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw&t=0s)
+6. Dynamic Programming: [Aditya Verma](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)
+
+7. Graph: [Striver Playlist](https://www.youtube.com/watch?v=YTtpfjGlH2M&list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw&t=0s)
+
+8. Sliding window Technique: [Aditya Verma](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeM8BDJmIYDaoQ5zuwyxnfj)
+
+9. Two Pointer: [Striver Playlist](https://www.youtube.com/watch?v=onLoX6Nhvmg&list=PLgUwDviBIf0rBT8io74a95xT-hDFZonNs&t=0s)
+
+10. Binary Search: [Aditya Verma](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2)
+
+11. Hashing: [Striver Playlist](https://www.youtube.com/watch?v=dRUpbt8vHpo&list=PLgUwDviBIf0rVwua0kKYlsS_ik_1lyVK_&t=0s)
+
+12. Greedy: [Striver Playlist](https://www.youtube.com/watch?v=II6ziNnub1Q&list=PLgUwDviBIf0pmWCl2nepwGDO05a0-7EfJ&t=0s)
+
+13. Backtracking: [Abdul Barri Sir 6.0 - 6.4](https://www.youtube.com/watch?v=DKCbsiDBN6c&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&index=63&ab_channel=AbdulBari)
+
+14. Array, Searching and sorting: [Striver Playlist](https://www.youtube.com/watch?v=32Ll35mhWg0&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&t=0s)
