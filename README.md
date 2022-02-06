@@ -2,9 +2,9 @@
 
 Data Structures and Algorithms
 
-## SDE Sheet [Striver](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
+## [SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
 
-## SDE Core Sheet [Striver](https://takeuforward.org/interviews/must-do-questions-for-dbms-cn-os-interviews-sde-core-sheet/)
+## [SDE Core Sheet](https://takeuforward.org/interviews/must-do-questions-for-dbms-cn-os-interviews-sde-core-sheet/)
 
 ## Resources
 
