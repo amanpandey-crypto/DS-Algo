@@ -2,6 +2,10 @@
 
 Data Structures and Algorithms
 
+## SDE Sheet [Striver](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
+
+## SDE Core Sheet [Striver](https://takeuforward.org/interviews/must-do-questions-for-dbms-cn-os-interviews-sde-core-sheet/)
+
 ## Resources
 
 1. Stacks & Queue: [Striver Playlist](https://www.youtube.com/watch?v=GYptUgnIM_I&list=PLgUwDviBIf0oSO572kQ7KCSvCUh1AdILj&t=0s) || [Aditya Verma Stack Playlist](https://www.youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd)
