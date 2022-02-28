@@ -2,7 +2,7 @@
 
 Data Structures and Algorithms
 
-## [SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/) || [SDE Core Sheet](https://takeuforward.org/interviews/must-do-questions-for-dbms-cn-os-interviews-sde-core-sheet/) || [LeetCode Patterns](https://seanprashad.com/leetcode-patterns/)
+## [SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/) || [SDE Core Sheet](https://takeuforward.org/interviews/must-do-questions-for-dbms-cn-os-interviews-sde-core-sheet/) || [LeetCode Patterns](https://seanprashad.com/leetcode-patterns/)|| [Interview](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
 
 ## Resources
 
